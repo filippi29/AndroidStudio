@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<students>
+	<student>
+		<name>Papadopoulos</name>
+		<grades> 3,5,6,9 </grades>
+	</student>
+	<student>
+		<name>Filippidou</name>
+		<grades> 8,8,9,7 </grades>
+	</student>
+	<student>
+		<name>Pasmatzidis</name>
+		<grades>7,7,5,8</grades>
+	</student>
+	<student>
+		<name>Ntogkali</name>
+		<grades>6,6,7,8</grades>
+	</student>
+	<student>
+		<name>Iliadis</name>
+		<grades>3,3,4,6</grades>
+	</student>
+</students>
